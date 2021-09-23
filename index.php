@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Meu Curriculum</title>
+    <title>Curriculum Vitae Electronico</title>
     <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
     <!-- Font Awesome icons (free version)-->
     <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
@@ -36,7 +36,7 @@
                 <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Educação</a></li>
                 <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Competências</a></li>
                 <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interesses</a></li>
-                <!--<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Certificação</a></li>-->
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Certificação</a></li>
             </ul>
         </div>
     </nav>
@@ -210,57 +210,32 @@
         <section class="resume-section" id="interests">
             <div class="resume-section-content">
                 <h2 class="mb-5">Interesses</h2>
-                <p>Futebol, Filmes de Guerra, Seriados, Aventuras, Teledramaturgia.</p>
-                <p class="mb-0">Leitura, Meetups, Política, Boa Comida.</p>
+                <p>Novas Linguagens de Programação, Desenvolvimento RPA, PowerBI</p>
+                <p class="mb-0">Inteligência Artificial, Desenvolvimento Mobile e outros</p>
             </div>
         </section>
         <hr class="m-0" />
         <!-- Awards-->
-        <!-- <section class="resume-section" id="awards">
+        <section class="resume-section" id="awards">
             <div class="resume-section-content">
-                <h2 class="mb-5">Awards & Certifications</h2>
+                <h2 class="mb-5">Certificatições</h2>
                 <ul class="fa-ul mb-0">
                     <li>
-                        <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                        Google Analytics Certified Developer
+                        <span class="fa-li"><i class="fas fa-certificate" style="color:#7f5539"></i></span>
+                        Redes à Cloud Computing
                     </li>
                     <li>
-                        <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                        Mobile Web Specialist - Google Certification
+                        <span class="fa-li"><i class="fas fa-certificate" style="color:#7f5539"></i></span>
+                        Servidor Linux
                     </li>
-                    <li>
-                        <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                        1
-                        <sup>st</sup>
-                        Place - University of Colorado Boulder - Emerging Tech Competition 2009
-                    </li>
-                    <li>
-                        <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                        1
-                        <sup>st</sup>
-                        Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)
-                    </li>
-                    <li>
-                        <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                        2
-                        <sup>nd</sup>
-                        Place - University of Colorado Boulder - Emerging Tech Competition 2008
-                    </li>
-                    <li>
-                        <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                        1
-                        <sup>st</sup>
-                        Place - James Buchanan High School - Hackathon 2006
-                    </li>
-                    <li>
-                        <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                        3
-                        <sup>rd</sup>
-                        Place - James Buchanan High School - Hackathon 2005
-                    </li>
+
                 </ul>
+                <br><br>
+                <button type="button" class="btn btn-primary btn-lg"><a href="assets/doc/Edson_Macaule.pdf"
+                        style="color:white; Underline:none" download>Baixar o
+                        CV</a></button>
             </div>
-        </section> -->
+        </section>
     </div>
     <!-- Bootstrap core JS-->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
